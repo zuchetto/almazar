@@ -126,7 +126,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 text-cente">
 <ul>                   
 <li>1. Déposez votre demande de carte visa almazar dument remplie et signée 
 
@@ -139,27 +139,7 @@ pour signer votre contrat. Vous serez contacté par le centre commercial dés
 réception de la carte visa almazar.</li>
     </ul> 
 
-                </div>
-                <div class="col-lg-4">
-                    <p>NOTRE MISSION:
-                        
-
-Offrir des lieux de consommation modernes dans les principales villes du Royaume, en particulier celles à potentiel industriel et/ou touristique.
-</p>
-                </div>
-                 <div class="col-lg-4">
-             <p>  NOS ATOUTS :
-                        
-
-Un concept commercial à forte notoriété articulé autour :
-
-D'une locomotive alimentaire (Label'Vie / Carrefour),
-De localisations de premier ordre,
-D'une offre variée et basée essentiellement sur des franchises de renom.
-Un partenariat avec Henry Hermand, figure emblématique des centres commerciaux en France :
-
-Pionnier dans l'histoire des centres commerciaux, Henry Hermand a accompagné leur montée en puissance en France.
-A mis son savoir-faire et sa longue expérience au service de projets communs avec Best Real Estate, dès le lancement de l'activité d'immobilier commercial (co-promoteur de la Label'Gallery de Rabat et intervenant sur plusieurs projets en cours au Maroc)</p>
+              
             
             </div>
                
