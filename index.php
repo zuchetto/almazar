@@ -127,7 +127,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 col-lg-offset-2 text-cente">
-<ul>                   
+<ul class="list-inline">                   
 <li>1. Déposez votre demande de carte visa almazar dument remplie et signée 
 
 accompagnée des pièces requises au niveau de l’accueil de votre centre commercial</li>
@@ -216,7 +216,7 @@ A mis son savoir-faire et sa longue expérience au service de projets communs av
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <label>Name</label>
+                                <label>Nom</label>
                                 <input type="text" class="form-control" placeholder="Nom" id="name" required data-validation-required-message="Entrez Votre Nom Svp.">
                                 <p class="help-block text-danger"></p>
                             </div>
