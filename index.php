@@ -282,7 +282,6 @@ A mis son savoir-faire et sa longue expérience au service de projets communs av
                             <h2>Carte visa almazar payer en 3, 6 ou 10 fois</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/carte.jpg" class="img-responsive img-centered" alt="">
-                            <p>
 
 <h3>Bénéficiez d’une réserve d’argent permanente</h3>
 
@@ -318,23 +317,23 @@ prélèvement, ni intérêts (*) de plus vous pouvez si vous le souhaitez change
 
 remboursement sur simple demande à salafin.
 
- (*) Hors frais de carte
+ (*) Hors frais de carte</p>
 
 <h3>Régler vos achats dans plus de 100 boutiques du centre commercial</h3>
 
-Dés réception de votre carte, vous pourrez l’utiliser dans plus de 100 boutiques du centre. 
+<p>Dés réception de votre carte, vous pourrez l’utiliser dans plus de 100 boutiques du centre. 
 
-La liste complète des boutiques est disponible sur www.almazar.ma
+La liste complète des boutiques est disponible sur <a href="www.almazar.ma">www.almazar.ma</a>
 
 Le plus de la carte ! Certaines boutiques pourront proposer le paiement en plusieurs 
 
 fois sans frais. Renseignez vous auprés de l’accueil du centre ou directement chez le 
 
-commerçant.
+commerçant.</p>
 
 <h3>Contrôlez vos dépenses en ligne ! </h3>
 
-Un site client « www.salafin.com » est mis à votre disposition pour suivre et contrôler vos 
+<p>Un site client <a href="www.salafin.com"> « www.salafin.com »</a> est mis à votre disposition pour suivre et contrôler vos 
 
 dépenses en ligne et sans se déplacer.
 
@@ -348,7 +347,7 @@ accompagnée des pièces requises au niveau de l’accueil de votre centre comme
 
 pour signer votre contrat. Vous serez contacté par le centre commercial dés 
 
-réception de la carte visa almazar.. <a href="#"> visiter le site de almazar</a></p>
+réception de la carte visa almazar.. <a href="www.almazar.ma"> visiter le site de almazar</a> </p>
                             
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                         </div>
