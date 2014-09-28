@@ -282,11 +282,11 @@ A mis son savoir-faire et sa longue expérience au service de projets communs av
                             <h2>Nom de la carte</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/carte.jpg" class="img-responsive img-centered" alt="">
-                            <p>Carte visa almazar payer en 3, 6 ou 10 fois
+                            <p><h3>Carte visa almazar payer en 3, 6 ou 10 fois</h3>
 
-Bénéficiez d’une réserve d’argent permanente
+<h2>Bénéficiez d’une réserve d’argent permanente</h2>
 
-La carte visa almazar est une réserve d’argent allant de 5 000 à 60 000dhs et qui se 
+<p>La carte visa almazar est une réserve d’argent allant de 5 000 à 60 000dhs et qui se 
 
 reconstitue au fur et à mesure de vos remboursements. 
 
@@ -320,7 +320,7 @@ remboursement sur simple demande à salafin.
 
  (*) Hors frais de carte
 
-Régler vos achats dans plus de 100 boutiques du centre commercial
+<h2>Régler vos achats dans plus de 100 boutiques du centre commercial</h2>
 
 Dés réception de votre carte, vous pourrez l’utiliser dans plus de 100 boutiques du centre. 
 
@@ -332,7 +332,7 @@ fois sans frais. Renseignez vous auprés de l’accueil du centre ou directement
 
 commerçant.
 
-Contrôlez vos dépenses en ligne ! 
+<h2>Contrôlez vos dépenses en ligne ! </h2>
 
 Un site client « www.salafin.com » est mis à votre disposition pour suivre et contrôler vos 
 
