@@ -126,7 +126,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-8  text-cente">
+                <div class="col-lg-8  text-center">
                     <p>
 <ul class="list-inline">                   
 <li>1. Déposez votre demande de carte visa almazar dument remplie et signée 
