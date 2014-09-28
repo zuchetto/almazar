@@ -117,7 +117,7 @@
 
     
         <!-- About Section -->
-    <section class="success" id="obtenir">
+    <section  id="obtenir">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
