@@ -282,11 +282,73 @@ A mis son savoir-faire et sa longue expérience au service de projets communs av
                             <h2>Nom de la carte</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/carte.jpg" class="img-responsive img-centered" alt="">
-                            <p>description de la carte  Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+                            <p>Carte visa almazar payer en 3, 6 ou 10 fois
 
-Haec dum oriens diu perferret, caeli reserato tepore Constantius consulatu suo septies et Caesaris ter egressus Arelate Valentiam petit, in Gundomadum et Vadomarium fratres Alamannorum reges arma moturus, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.
+Bénéficiez d’une réserve d’argent permanente
 
-Nunc vero inanes flatus quorundam vile esse quicquid extra urbis pomerium nascitur aestimant praeter orbos et caelibes, nec credi potest qua obsequiorum diversitate coluntur homines sine liberis Romae. <a href="#"> visiter le site de almazar</a></p>
+La carte visa almazar est une réserve d’argent allant de 5 000 à 60 000dhs et qui se 
+
+reconstitue au fur et à mesure de vos remboursements. 
+
+Choisissez un mode de remboursement adapté à votre besoin
+
+Vous avez le choix entre trois modes de remboursement : 3, 6 ou 10 fois.
+
+Les remboursements seront prélevés directement de votre compte bancaire et seront 
+
+reversés sur votre carte qui sera prête à de nouvelles utilisations.
+
+Exemple 
+
+Mode de remboursement Pour un Achat de 3 000 Dhs
+
+Réglez en 3 fois (DH) 1000 (*)
+
+Réglez en 6 fois (DH) 500 (*)
+
+Réglez en 10 fois (DH) 300 (*)
+
+ (*)Les remboursements seront majorés d’intérêts calculés sur la base d’un taux effectif global (TEG) maximum 
+
+de 1,1% mensuel.
+
+Si vous n’utilisez pas votre réserve, vous n’avez aucun coût supplémentaire à régler : ni 
+
+prélèvement, ni intérêts (*) de plus vous pouvez si vous le souhaitez changer le mode de 
+
+remboursement sur simple demande à salafin.
+
+ (*) Hors frais de carte
+
+Régler vos achats dans plus de 100 boutiques du centre commercial
+
+Dés réception de votre carte, vous pourrez l’utiliser dans plus de 100 boutiques du centre. 
+
+La liste complète des boutiques est disponible sur www.almazar.ma
+
+Le plus de la carte ! Certaines boutiques pourront proposer le paiement en plusieurs 
+
+fois sans frais. Renseignez vous auprés de l’accueil du centre ou directement chez le 
+
+commerçant.
+
+Contrôlez vos dépenses en ligne ! 
+
+Un site client « www.salafin.com » est mis à votre disposition pour suivre et contrôler vos 
+
+dépenses en ligne et sans se déplacer.
+
+Comment obtenir votre carte WEBSALAF
+
+1. Déposez votre demande de carte visa almazar dument remplie et signée 
+
+accompagnée des pièces requises au niveau de l’accueil de votre centre commercial
+
+2. Après acceptation de votre dossier, présentez vous à l’agence SALAFIN de Marrakech 
+
+pour signer votre contrat. Vous serez contacté par le centre commercial dés 
+
+réception de la carte visa almazar.. <a href="#"> visiter le site de almazar</a></p>
                             
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                         </div>
