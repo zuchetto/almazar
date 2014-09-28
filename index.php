@@ -120,7 +120,7 @@
     <section class="success" id="obtenir">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-8 text-center">
                     <h2>Obtenir Votre Carte WebSalaf</h2>
                     <hr class="star-light">
                 </div>
