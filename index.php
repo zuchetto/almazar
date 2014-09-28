@@ -126,7 +126,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 col-lg-offset-2 text-cente">
+                <div class="col-lg-12  text-cente">
+                    <p>
 <ul class="list-inline">                   
 <li>1. Déposez votre demande de carte visa almazar dument remplie et signée 
 
@@ -138,9 +139,7 @@ pour signer votre contrat. Vous serez contacté par le centre commercial dés
 
 réception de la carte visa almazar.</li>
     </ul> 
-
-              
-            
+</p>
             </div>
                
             </div>
