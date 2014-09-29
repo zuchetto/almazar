@@ -179,9 +179,28 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.video {
     color: #fff;
-    background: #891a19;
+    background: #ca3130;
+}
+
+section.carte {
+    color: #fff;
+    background: #ff6b57;
+}
+
+section.obtenir {
+    color: #fff;
+    background: #ff884d;
+}
+section.about {
+    color: #fff;
+    background: #81b9c3;
+}
+
+section.contact {
+    color: #fff;
+    background: #41c3ac;
 }
 
 @media(max-width:767px) {
