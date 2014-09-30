@@ -45,7 +45,7 @@ $(function() {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", Il parait que le serveur messagerie n'est pas encore configurer.Veuillez essayez aprés!");
+                    $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", Il parait que le serveur messagerie n'est pas encore configurer.Veuillez essayez aprés !");
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
